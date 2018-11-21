@@ -1,5 +1,15 @@
 # React Blog
 Blog using MERN stack
+
+# Requirements
+<br>
+ cors to make allow cross origin request in chrome https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf?utm_source=chrome-ntp-icon
+<br>
+ node
+<br> npm
+  
+
+# Feactures
 <br>can login or register
 <br>view all posts
 <br>publish posts
