@@ -1,0 +1,19 @@
+
+:global(.ql-container) {
+border-bottom-left-radius: 0.5em;
+border-bottom-right-radius: 0.5em;
+background: #fefcfc;
+}
+
+:global .ql-toolbar  {
+display: block;
+background-color: #e9e9f1;
+border-top-left-radius: 0.5em;
+border-top-right-radius: 0.5em;
+}
+
+:global .ql-editor {
+    border: 1px solid rgba(0, 0, 0, 0.6);
+    border-bottom-left-radius: 0.5em;
+    border-bottom-right-radius: 0.5em;
+}
