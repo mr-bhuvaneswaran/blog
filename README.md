@@ -9,7 +9,7 @@ Blog using MERN stack
 <br> npm
   
 
-# Feactures
+# Features
 <br>can login or register
 <br>view all posts
 <br>publish posts
